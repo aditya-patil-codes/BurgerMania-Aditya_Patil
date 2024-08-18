@@ -1,0 +1,34 @@
+.main-heading{
+    font-size: 72px;
+  background: -webkit-linear-gradient(rgb(188, 12, 241), rgb(201, 29, 29));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.juicy{
+    font-size: 72px;
+    background: -webkit-linear-gradient(rgb(243, 255, 70), rgb(253, 162, 109));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.home-btn {
+    padding: 10px 60px 10px 60px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .rbtn {
+    background: -webkit-linear-gradient(rgb(12, 241, 12), rgb(57, 143, 8));
+    color: white;
+    font-size: larger;
+    margin-right: 20px;
+  }
+  
+  .lbtn {
+    background: -webkit-linear-gradient(rgb(240, 255, 30), rgb(245, 125, 55));
+    color: rgb(0, 0, 0);
+  }

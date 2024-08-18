@@ -1,0 +1,11 @@
+.table th, .table td {
+    vertical-align: middle; /* Ensures vertical alignment in table cells */
+}
+
+.d-flex {
+    display: flex;
+}
+
+.align-middle {
+    vertical-align: middle !important; /* Force vertical alignment for table cells */
+}
